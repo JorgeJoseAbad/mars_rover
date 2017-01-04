@@ -1,4 +1,6 @@
 
+/*   ++++++++   Iteration 1   +++++++++   */
+
 //this is var-object javascript, the rover
 var myRover = {
   position: [8,0],
